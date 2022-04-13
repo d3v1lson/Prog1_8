@@ -1,0 +1,10 @@
+Alma 10 10.1
+Korte 9 20.2
+Barack 8 30.3
+Narancs 7 40.4
+Eper 6 50.5
+Szőlő 5 60.6
+Szilva 4 70.7
+Málna 3 80.8
+Szeder 2 90.9
+Citrom 1 100.1
